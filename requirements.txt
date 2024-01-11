@@ -1,0 +1,12 @@
+jupyter
+matplotlib
+numpy
+pandas
+pip
+plotly
+prophet
+scikit-learn
+scipy
+seaborn
+setuptools
+wheel
