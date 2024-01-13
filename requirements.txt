@@ -1,4 +1,5 @@
 jupyter
+keras
 matplotlib
 numpy
 pandas
@@ -10,4 +11,5 @@ scipy
 seaborn
 setuptools
 statsmodels
+tensorflow
 wheel
