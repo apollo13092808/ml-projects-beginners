@@ -13,3 +13,5 @@ setuptools
 statsmodels
 tensorflow
 wheel
+wordcloud
+yfinance
