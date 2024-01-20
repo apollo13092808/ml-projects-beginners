@@ -3,16 +3,14 @@ jupyter
 keras
 matplotlib
 numpy
+nltk
 pandas
-pip
 plotly
 prophet
 scikit-learn
 scipy
 seaborn
-setuptools
 statsmodels
 tensorflow
-wheel
 wordcloud
 yfinance
